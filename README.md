@@ -14,10 +14,10 @@ This project is part of my learning journey as **DGhaus**.
 ---
 
 ## 📂 Project Structure
-##Enhanced-Calculator/ ├── calculator.py
-# Main program ├── README.md
-# Project documentation └── LICENSE
-# Open-source license (MIT)
+### Enhanced-Calculator/ ├── calculator.py
+### Main program ├── README.md
+### Project documentation └── LICENSE
+### Open-source license (MIT)
 
 ---
 
