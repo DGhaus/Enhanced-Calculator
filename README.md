@@ -18,8 +18,6 @@ This project is part of my learning journey as **DGhaus**.
     ├── calculator.py     # Main program
     ├── README.md         # Project documentation
     └── LICENSE           # Open-source license (MIT)
-LICENSE
-### Open-source license (MIT)
 
 ---
 
@@ -34,13 +32,13 @@ python calculator.py
 
 ---
 
-📜 License
-
+## 📜 License
+### Open-source license (MIT)
 This project is licensed under the MIT License – free to use, modify, and share.
 
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by DGhaus as part of my coding portfolio.
