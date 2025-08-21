@@ -49,11 +49,6 @@ calculator/
 
 ---
 
-## 🖼️ Screenshot (Optional)
-You can add a screenshot of your calculator running in the terminal here.
-
----
-
 ## 📝 Example Run
 ```
 === Enhanced Calculator ===
