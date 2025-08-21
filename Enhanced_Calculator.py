@@ -1,5 +1,5 @@
 # Enhanced Calculator 🧮
-# Author: DGhaus
+# Author: DGhaus(with ChatGPT-5 as coding coach 🤖)
 # Description: A simple Python calculator with history tracking, powers, roots, and percentages.
 
 # ===== Importing Modules =====
