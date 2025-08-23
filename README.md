@@ -28,7 +28,7 @@ A simple but **powerful calculator** written in Python with:
 ## 📂 Project Structure
 ```
 enhanced-calculator/
-│── enhanced_calculator.py   # Main program
+│── Enhanced_calculator.py   # Main program
 │── README.md       # Project documentation
 ```
 
@@ -39,7 +39,7 @@ enhanced-calculator/
 1. Clone this repo:
    ```
    bash
-   git clone https://github.com/DGhaus/enhanced-calculator.git
+   git clone https://github.com/DGhaus/Enhanced-Calculator.git
    ```
 
 2. Run the calculator:
