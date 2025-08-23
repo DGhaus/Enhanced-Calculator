@@ -86,7 +86,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **Daud Ghaus (aka Daud_op)** 👋  
+Hi! I'm **Daud Ghaus (aka DGhaus)** 👋  
 - 💡 I love learning Python and building small projects.  
 - 🌱 Currently exploring **programming, automation, and game development**.  
 - 🎯 My goal is to become a **pro developer** by practicing real projects.  
