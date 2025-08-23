@@ -82,3 +82,14 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 About Me
+Hi! I'm **Daud Ghaus (aka Daud_op)** 👋  
+- 💡 I love learning Python and building small projects.  
+- 🌱 Currently exploring **programming, automation, and game development**.  
+- 🎯 My goal is to become a **pro developer** by practicing real projects.  
+- 🚀 This repository is part of my coding journey!  
+
+If you like my work, feel free to ⭐ this repo and follow me on GitHub 😃
